@@ -37,6 +37,6 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 
-### 📫 Connect with Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iman-ullah/)  
-- 📧 [imanullah1112@gmail.com](mailto:imanullah1112@gmail.com)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymaan.alamgir@agr.gc.ca)
