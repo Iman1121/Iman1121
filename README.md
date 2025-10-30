@@ -47,5 +47,5 @@
 ---
 
 ### 📫 Connect with Me  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 [aymaan.alamgir@agr.gc.ca](mailto:aymaan.alamgir@agr.gc.ca)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/iman-ullah/)  
+- 📧 [imanullah1112@gmail.com](mailto:imanullah1112@gmail.com)
