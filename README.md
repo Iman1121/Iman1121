@@ -1,8 +1,8 @@
 
 # 👋 Hey there, I'm Iman
 
-🎓 **Computer Science Major at Carleton University**  
-💼 **Software Developer Intern @ Ciena**  
+**Computer Science Major at Carleton University**  
+**Software Developer Intern @ Ciena**  
 
 ---
 
@@ -39,5 +39,5 @@
 ---
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymaan.alamgir@agr.gc.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-ullah/)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanullah1112@gmail.com)
