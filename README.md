@@ -2,7 +2,7 @@
 # 👋 Hey there, I'm Iman
 
 **Computer Science Major at Carleton University**  
-**Software Developer Intern @ Ciena**  
+**Software Developer Intern @ Demonware**  
 
 ---
 
